@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ITIS Music</string>
+    <string name="menu_main">Main</string>
+    <string name="menu_favorite">Favorite</string>
+    <string name="menu_downloaded">Downloaded</string>
+    <string name="menu_popular">Popular</string>
+    <string name="menu_podcasts">Podcast</string>
+</resources>

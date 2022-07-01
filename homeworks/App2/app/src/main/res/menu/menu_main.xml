@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mainFragment"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_home"
+        android:title="@string/menu_main" />
+    <item
+        android:id="@+id/downloadedFragment"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_downward"
+        android:title="@string/menu_downloaded" />
+    <item
+        android:id="@+id/podcastsFragment"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_mic"
+        android:title="@string/menu_podcasts" />
+    <item
+        android:id="@+id/popularFragment"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_music_note"
+        android:title="@string/menu_popular" />
+    <item
+        android:id="@+id/favoriteFragment"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_favorite"
+        android:title="@string/menu_favorite" />
+
+</menu>
